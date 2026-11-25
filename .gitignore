@@ -1,0 +1,31 @@
+# Quartus II / Prime build artifacts
+db/
+incremental_db/
+output_files/
+simulation/
+greybox_tmp/
+*.qws
+*.rpt
+*.summary
+*.smsg
+*.pin
+*.sof
+*.pof
+*.jdi
+*.sld
+*.done
+*.qdf
+*.bak
+*.log
+
+# ModelSim / QuestaSim artifacts
+work/
+transcript
+vsim.wlf
+*.wlf
+*.vstf
+
+# OS / Editor files
+.DS_Store
+Thumbs.db
+.vscode/
